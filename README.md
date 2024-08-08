@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">A Frontend developer</h3>
+<h3 align="center">MERN Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-singh-01&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-singh-01" /> </p>
 
-- 🌱 I’m currently learning **Node.js | Express.js | Typescript**
+- 🌱 I’m currently working on MERN Stack project **
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-singh-a76577266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-singh-a76577266/" height="30" width="40" /></a>
